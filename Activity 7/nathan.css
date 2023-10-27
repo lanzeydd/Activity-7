@@ -1,0 +1,70 @@
+.citstyles {
+    margin-right: 25px;
+    text-decoration: none;
+    color: red;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+.ctestyles {
+    margin-right: 25px;
+    text-decoration: none;
+    color: yellow;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+
+.coestyles {
+    margin-right: 25px;
+    text-decoration: none;
+    color: maroon;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+
+.homestyles {
+    margin-right: 25px;
+    text-decoration: none;
+    color: goldenrod;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+a {
+    margin-right: 25px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;   
+ 
+}
+
+p {
+    background-color: green;
+    padding: 20px;
+    text-align: right;
+    border-top: 3px solid gold;
+    border-bottom: 3px solid gold;
+    border: 15px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border: 3px solid darkgreen;
+    border-radius: 50%;
+}
+
+table {
+border: 1px solid green;
+border-collapse: collapse;
+}
+
+td {
+border: 1px solid green;
+padding: 5px;
+}
+
+a:hover {
+    background-color: yellowgreen;
+    padding: 10px;
+}
